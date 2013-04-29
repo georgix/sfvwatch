@@ -7,7 +7,7 @@ once the quota is out you'll receive an email.
 you may run it on a headless linux server with firefox, xvfb, ruby, watir, 
 watir-webdriver and headless installed.
 
-if you run it on aws ec2 you may need to use screen to keep it running on
+if you run it on aws ec2 you may need to use screen to keep it running in
 the background.
 
 good luck!
