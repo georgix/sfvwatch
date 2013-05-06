@@ -46,7 +46,7 @@ while (1) do
 		end
 
 		b.close
-	rescue Error
+	rescue Exception
 		$stderr.print $!
 		sleep(60)
 	end
